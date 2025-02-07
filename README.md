@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishi Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" width="400" src="image.png" alt="![image](https://github.com/user-attachments/assets/f7451a8a-d444-42ef-961b-74514515cecf)
-">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishisingh81&label=Profile%20views&color=0e75b6&style=flat" alt="rishisingh81" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rishisingh81" alt="rishisingh81" /></a> </p>
